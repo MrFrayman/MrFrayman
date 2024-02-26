@@ -41,7 +41,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrfrayman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrfrayman" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrfrayman&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mrfrayman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrfrayman&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="mrfrayman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="mrfrayman" /></p>
 

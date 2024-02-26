@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrfrayman&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="mrfrayman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="mrfrayman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&locale=en&theme=transparent&hide_border=true&rank_icon=github" alt="mrfrayman" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrfrayman&theme=transparent&hide_border=true&border_radius=8.3&card_width=500" alt="GitHub Streak" /></a>

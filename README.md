@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&locale=en" alt="mrfrayman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfrayman&theme=github-dark-blue" alt="mrfrayman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfrayman&theme=github-dark-blue&hide_border=true" alt="mrfrayman" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MrFrayman&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 

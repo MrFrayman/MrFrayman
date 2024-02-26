@@ -1,11 +1,7 @@
-# Maarif Al-Kadhim معارف آل كاظم
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MrFrayman&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 <h1 align="center">Selam 👋, I'm Syed Maarif Al-Kadhim معارف آل كاظم</h1>
 <h3 align="center">A Pearson Software Engineering Student@Westford University College UK. Going crazy on Web Applications & Dynamic Python Solutions.</h3>
 
-<div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&sdze=26&duration=3000&pause=1000&color=0087F8&width=620&lines=I'm+a+Front-End+Developer;Building+UserCentral;Ben+bir+Front-End+Geli%C5%9Ftiricisiyim;UserCentral'u+Kurmak;)</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&sdze=26&duration=3000&pause=1000&color=0087F8&width=620&lines=I'm+a+Front-End+Developer;Building+UserCentral;Ben+bir+Front-End+Geli%C5%9Ftiricisiyim;UserCentral'u+Kurmak;)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfrayman&label=Profile%20views&color=0e75b6&style=flat" alt="mrfrayman" /> </p>
 
@@ -49,5 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&locale=en" alt="mrfrayman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfrayman&" alt="mrfrayman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfrayman&theme=github-dark-blue" alt="mrfrayman" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MrFrayman&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Docker, OpenCV & Azure**
 
-- 👯 I’m looking to collaborate on [Tournament Ranking System](https://github.com/MrFrayman/MrFrayman.github.io)
+- 👯 I’m looking to collaborate on [Tournament Ranking System](https://mrfrayman.github.io/projects/first)
 
 - 👨‍💻 All of my projects are available at [portfoliolink](portfoliolink)
 

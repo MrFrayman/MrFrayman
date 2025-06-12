@@ -1,48 +1,199 @@
-<h1 align="center">Selam 👋, I'm Syed Maarif Al-Kadhim معارف آل كاظم</h1>
-<h3 align="center">A Pearson Software Engineering Student@Westford University College UK. Going crazy on Web Applications & Dynamic Python Solutions.</h3>
+# 🏛️ Syed Maarif Al-Kadhim | معارف آل كاظم
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&sdze=26&duration=3000&pause=1000&color=0087F8&width=620&lines=I'm+a+Front-End+Developer;Building+UserCentral;Ben+bir+Front-End+Geli%C5%9Ftiricisiyim;UserCentral'u+Kurmak;)
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Medieval%20Code%20Craftsman&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Ancient%20Wisdom%20Meets%20Modern%20Technology&descAlignY=55&descSize=16)
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfrayman&label=Profile%20views&color=0e75b6&style=flat" alt="mrfrayman" /> </p>
+## 🗡️ The Digital Crusader's Chronicles
 
-- 🔭 I’m currently working on **Public Transport Passenger Image Processing - A Research Paper**
+> *"In the realm of code, as in the courts of old, precision and honor forge the path to greatness."*
 
-- 🌱 I’m currently learning **Docker, OpenCV & Azure**
+Greetings, fellow traveler! I am **Syed Maarif Al-Kadhim**, a digital architect from the scholarly lands of Sharjah, currently pursuing the noble art of Software Engineering at **Westford University College UK**. Like the scribes of medieval libraries who preserved knowledge, I craft web applications and Python solutions that stand the test of time.
 
-- 👯 I’m looking to collaborate on [Tournament Ranking System](https://mrfrayman.github.io/projects/first)
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=24&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=800&lines=⚡+Forging+React+Applications+with+Vite;🔗+Building+the+Decentralized+Future;🤖+Engineering+Intelligent+AI+Agents;🗃️+Architecting+with+Supabase+Power)](https://git.io/typing-svg)
+  
+</div>
 
-- 👨‍💻 All of my projects are available at [portfoliolink](portfoliolink)
+---
 
-- 📝 I regularly write articles on [Web Solutions & AI/ML](Web Solutions & AI/ML)
+## 🏰 Current Quests & Endeavors
 
-- 💬 Ask me about **Vanilla JavaScript, ReactJS & Django**
+<table>
+<tr>
+<td width="50%">
 
-- 📫 How to reach me **therealmrfrayman@outlook.com**
+### 🛠️ **Active Crusades**
+- ⚡ Building modern **Web Applications** with React, Vite & Next.js
+- 🗃️ Architecting backends with **Supabase** for scalable solutions
+- 🔗 Exploring the **Blockchain** realm for decentralized applications
+- 🤖 Crafting intelligent systems with **AI Engineering & Agentic AI**
 
-- 📄 Know about my experiences [resume link from website](resume link from website)
+</td>
+<td width="50%">
 
-- ⚡ Fun fact **I'm Addicted to Medieval History...not a boomer**
+### 📚 **Knowledge Pursuit**
+- 🎓 **Pearson Software Engineering** @ Westford University College UK
+- 🌟 Specializing in **Modern Full-Stack Development**
+- 🧠 Pioneering **Autonomous AI Systems** and **Smart Contracts**
+- 📊 Research in **Public Transport Image Processing**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+</td>
+</tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mrfrayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrfrayman" height="30" width="40" /></a>
-<a href="https://twitter.com/syedmarifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedmarifr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maarifurrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maarifurrehman" height="30" width="40" /></a>
-<a href="https://instagram.com/syedalkadhim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedalkadhim" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## ⚔️ Arsenal of Technologies
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mrfrayman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrfrayman" /></a></p><br><br> <br>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrfrayman&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="mrfrayman" /></p>
+### ⚡ **Modern Web Forge**
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&locale=en&theme=transparent&hide_border=true&rank_icon=github" alt="mrfrayman" /></p>
+### 🗃️ **Backend & Database Realm**
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mrfrayman&theme=transparent&hide_border=true&border_radius=8.3&card_width=500" alt="GitHub Streak" /></a>
+### 🔧 **DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔗 **Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### 🤖 **AI & Machine Learning**
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Battle Statistics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrfrayman&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=DAA520&icon_color=DAA520&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=mrfrayman&theme=dracula&hide_border=true&background=0D1117&ring=DAA520&fire=DAA520&currStreakLabel=DAA520&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfrayman&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=DAA520&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mrfrayman&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Tournament Ranking System](https://github-readme-stats.vercel.app/api/pin/?username=mrfrayman&repo=tournament-ranking&theme=dracula&hide_border=true&bg_color=0D1117&title_color=DAA520&text_color=FFFFFF)](https://mrfrayman.github.io/projects/first)
+
+</div>
+
+---
+
+## 📜 Scholarly Writings
+
+<div align="center">
+  
+  🖋️ **I chronicle my adventures in the realms of:**
+  
+  **Modern Web Development** | **Blockchain Technology** | **AI Engineering** | **Agentic AI Systems** | **Medieval History**
+  
+  *"The future belongs to those who build it with both wisdom and code."*
+  
+</div>
+
+---
+
+## 🗺️ Connect with the Digital Crusader
+
+<div align="center">
+  
+  [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mrfrayman)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/syedmarifr)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maarifurrehman)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syedalkadhim)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:therealmrfrayman@outlook.com)
+  
+</div>
+
+---
+
+## 🏺 Fun Facts About This Digital Scribe
+
+<div align="center">
+
+```javascript
+const maarifAlKadhim = {
+    location: "Sharjah, UAE 🇦🇪",
+    currentStack: ["React", "Next.js", "Vite", "Supabase", "TypeScript"],
+    exploring: ["Blockchain Development", "AI Engineering", "Agentic AI"],
+    passions: ["Decentralized Systems 🔗", "Intelligent Agents 🤖", "Medieval History 🏰"],
+    currentlyReading: "Mastering Ethereum - Andreas Antonopoulos",
+    codingPlaylist: ["Epic Medieval Music", "Synthwave", "Lo-fi Hip Hop"],
+    motto: "Build the future, one component at a time",
+    secretSkill: "Can explain React hooks using medieval guild systems",
+    coffeeConsumption: "∞ cups/day ☕",
+    dreamProject: "An AI agent that helps historians decode ancient manuscripts"
+};
+```
+
+</div>
+
+---
+
+## 💰 Support the Quest
+
+<div align="center">
+  
+  If my code has aided you in your digital conquests, consider supporting my caffeinated coding sessions! ☕⚔️
+  
+  [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mrfrayman)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mrfrayman&label=Fellow%20Travelers&color=DAA520&style=for-the-badge)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn)
+  
+  **"May your code compile on the first try and your bugs be easily conquered!"** ⚔️
+  
+</div>

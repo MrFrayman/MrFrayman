@@ -106,6 +106,6 @@ If you wanna throw some coffee money my way, cool. I’ll probably spend it on m
 <div align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=mrfrayman&label=Profile%20Views&color=FFFFFF&style=flat-square)
 
-Code compiles, bugs don’t. That’s the dream, anyway.
-
 </div>
+
+Code compiles, bugs don’t. That’s the dream, anyway.

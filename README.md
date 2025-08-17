@@ -82,7 +82,8 @@ const me = {
   playlist: ["Lo-fi to focus", "Synthwave when I’m dramatic"],
   lifeGoal: "Build something cool enough to not explain it at parties",
   coffee: "Too much",
-};```
+};
+```
 
 ---
 

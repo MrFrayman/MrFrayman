@@ -1,6 +1,6 @@
 # Syed Maarif R. Hussein
 
-Yeah, hi. I’m **Syed Maarif R. Hussein**, just a guy from Sharjah who spends too much time staring at code. Studying Software Engineering at Westford University College UK, because apparently I thought endless debugging sessions sounded fun. I build stuff—mostly web apps, some backend, and a bit of blockchain when I’m feeling extra unhinged. Not much for grand speeches, so let’s keep this quick.
+Yeah, hi. I’m **Syed Maarif R. Hussein**, just a guy from Sharjah who spends too much time staring at code. Studying Software Engineering at Liverpool John Moores' University, because apparently I thought endless debugging sessions sounded fun. I build stuff—mostly web apps, some backend, and a bit of blockchain when I’m feeling extra unhinged. Not much for grand speeches, so let’s keep this quick.
 
 ---
 

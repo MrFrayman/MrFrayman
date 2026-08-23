@@ -1,56 +1,23 @@
-## Hi there, I'm Syed Maarif 👋
+# oh, hi.
+i'm syed maarif, a frontend engineer who keeps trying to become a backend engineer out of spite. i build stuff in react until i get bored, then panic-learn AI because every job posting demands it.
 
-<div align="center">
-<p align="center">Backend systems · APIs · developer tools</p>
-</div>
+| tool | skill level | opinion |
+| :--- | :--- | :--- |
+| react / next.js | comfort zone | home, but a needy one |
+| react native | comfortable | react, now with more permissions popups |
+| typescript | comfortable | javascript with a helmet on |
+| node.js | competent | the backend i tolerate |
+| python | learning | slower, but everyone's doing "ai" in it |
+| langchain | dabbling | duct tape for llms |
+| vectorDBs | confused | embeddings go in, magic comes out |
+| RAG | in progress | google, but with extra steps |
 
+### things i've built
+**schema drift detector cli** — recursively diffs json schemas so you don't have to find out in production.
+
+**crm system** — built solo for a company that didn't have one. multi-tenant, JWT + OAuth, RBAC, realtime via supabase. nobody else was going to do it.
+
+### locate me
+* [twitter (not X)](https://x.com/MarvinnKaz)
+* leave an issue if it's urgent. or don't.
 ---
-
-### I code, break, and understand systems ⚙️
-
-Backend-leaning engineer focused on building systems in the JS/TS ecosystem.  
-I care more about behavior, structure, and correctness than UI polish.
-
----
-
-### 🧠 Things I've built
-
-**Schema Drift Detector CLI**  
-Detects structural changes in JSON responses via recursive schema comparison.
-
-- custom schema inference engine  
-- recursive diffing system  
-- type + structure change detection  
-- outputs: JSON / Markdown / terminal table  
-
----
-
-**CRM System (learning project)**  
-Backend architecture exploration.
-
-- multi-tenant design  
-- JWT + OAuth authentication  
-- RBAC system  
-- realtime updates (Supabase)
-
----
-
-### ⚙️ Languages & Tools
-
-<div align="center">
-
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png"></code>
-<code><img width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-
-</div>
-
----
-
-### 📌 Focus
-
-Backend systems · API design · TypeScript depth · async architecture

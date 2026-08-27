@@ -1,5 +1,5 @@
 # oh, hi.
-i'm syed maarif, a frontend engineer who keeps trying to become a backend engineer out of spite. i build stuff in react until i get bored, then panic-learn AI because every job posting demands it.
+i'm Marvin, a frontend engineer who keeps trying to become a backend engineer out of spite. i build stuff in react until i get bored, then panic-learn AI because every job posting demands it.
 
 | tool | skill level | opinion |
 | :--- | :--- | :--- |
